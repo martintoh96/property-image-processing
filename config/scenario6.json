@@ -1,0 +1,1 @@
+{"version": "1.0","name": "Scenario 6","description": "Make-compatible blueprint for Scenario 6.","steps": [{"id": "step1","type": "action","name": "Step 1","description": "Initial step in Scenario 6."},{"id": "step2","type": "action","name": "Step 2","description": "Next step in Scenario 6."}]}
